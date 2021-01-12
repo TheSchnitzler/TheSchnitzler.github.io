@@ -80,8 +80,11 @@ body
     padding: 5%;
 }
 
-
-
+.form-contact-inputs
+{   
+    max-width: 450px;
+    width: 100%;
+}
 
 /*tel and email(contact)*/
 .telandemail
